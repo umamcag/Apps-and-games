@@ -1,0 +1,15 @@
+.line{
+height:6px;
+width:70px;
+background-color:black;
+margin:8px auto;
+}
+#app{
+background-color:tomato;    
+}
+#game{
+background-color:aquamarine;    
+}
+#chatbot{
+background-color:linen;    
+}
